@@ -11,6 +11,16 @@ and our system includes all basic steps of tendering business as will be mention
 
 <h2>Built With</h2><ul><li>Express Js</li><li>Mongo Db</li></ul
 <h2>Libs </h2><ul><li>mongoose</li><li>joi</li><li>dotenv</li></ul>
+<h2>Api End points  </h2>
+<ul>
+  <li>Sign UP End point for creating new Acount for employees and for contractors </li>
+  <li>Login End point </li>
+  <li>Create data End point handel creating new contracts and creating offers of open contracts</li>
+  <li>Update data End point handel providing technical evaluation , financial evaluation and .... </li>
+  <li>Get data End point handel all type of data retriving </li>
+  <li>Mailling End point handel announcing contractors of their offers evaluations</li>
+</ul>
+
 
 
 
