@@ -9,8 +9,23 @@ and our system includes all basic steps of tendering business as will be mention
   <h4>4 - financial team of stakeholder review and  evaluate  financial part of the offers of all contractor after technical accepting </h4>
   <h4>5 -managment team choose best offer depend on technical and financial evaluation and announce all applied contractors  </h4>
 
-<h2>Built With</h2><ul><li>Express Js</li><li>Mongo Db</li></ul
-<h2>Libs </h2><ul><li>mongoose</li><li>joi</li><li>dotenv</li></ul>
+<h2>Built With</h2>
+<ul>
+  <li>Express Js</li>
+  <li>Mongo Db</li>
+</ul
+<h2>Libs </h2>
+<ul>
+  <li>mongoose</li>
+  <li>joi</li>
+  <li>dotenv</li>
+  <li>bcrypt</li>
+  <li>body-parser</li>
+  <li>jsonwebtoken</li>
+  <li>multer</li>
+  <li>nodemailer</li>
+
+</ul>
 <h2>Api End points  </h2>
 <ul>
   <li>Sign UP End point for creating new Acount for employees and for contractors </li>
