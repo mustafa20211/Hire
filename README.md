@@ -30,19 +30,19 @@ and our system includes all basic steps of tendering business as will be mention
 <ul>
   <li>Sign UP End point for creating new Acount for employees and for contractors </li>
   <li>Login End point </li>
-  <li>Create data End point handel creating new contracts and creating offers of open contracts</li>
+  <li>Create data End point handel creating new contracts and creating offers of open contracts</li>Middlwares
   <li>Update data End point handel providing technical evaluation , financial evaluation and .... </li>
   <li>Get data End point handel all type of data retriving </li>
   <li>Mailling End point handel announcing contractors of their offers evaluations</li>
 </ul>
 
-<h2>Project Layers (Middlwares)  </h2>
+<h2>Project Layers (Middlewares)  </h2>
 <ul >
-  <li>Authentication Middlware  </li>
-  <li>Authorization Middlware</li>
-  <li>Data Validation Middlware</li>
-  <li>File Uploading Middlware</li>
-  <li>Error Handeling Middlware</li>
+  <li>Authentication Middleware  </li>
+  <li>Authorization Middleware</li>
+  <li>Data Validation Middleware</li>
+  <li>File Uploading Middleware</li>
+  <li>Error Handeling Middleware</li>
 </ul>
 
 
