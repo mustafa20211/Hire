@@ -36,6 +36,13 @@ and our system includes all basic steps of tendering business as will be mention
   <li>Mailling End point handel announcing contractors of their offers evaluations</li>
 </ul>
 
-
+<h2>Project Layers (Middlwares)  </h2>
+<ul >
+  <li>Authentication Middlware  </li>
+  <li>Authorization Middlware</li>
+  <li>Data Validation Middlware</li>
+  <li>File Uploading Middlware</li>
+  <li>Error Handeling Middlware</li>
+</ul>
 
 
